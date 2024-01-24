@@ -1,0 +1,16 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+# https :// githubs.com/ auto ai repository _wwwdukr-web cloud.com update version code ai auto configure repository cloud monthly 
+            version upgrade web file page speed api level enhance configurations  server code www.google.com/ ai cloud upgrade _ continue version 6G server coding 2040 enhance 
+            server git hub auto code generate  re generate  code level api run sever 12x faster speed Sim connection  time server 365× 24 hours run 
+            generate  ai auto code https:// www.github_repositorycloud code ai generator/www.duke-web cloud.com :run 
+            api level version upgrade web service server file 12x speed 5G Sim_ 2040 6G E Sim/ physical Sim run 
+            comand server github_repository cloud web service configuration code generate  run 
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
